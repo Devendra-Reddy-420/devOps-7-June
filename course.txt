@@ -1,6 +1,7 @@
 Java
 Git
 Maven build 
+Kubernates
 DevOps(Main course)
 AWS
 Ansible
