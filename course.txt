@@ -1,3 +1,6 @@
 Java
 Git
 Maven build 
+DevOps(Main course)
+AWS
+Ansible
